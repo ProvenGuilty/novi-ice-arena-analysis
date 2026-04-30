@@ -15,7 +15,8 @@
 - [3. Reasons This Would Be a BAD Investment](#3-reasons-this-would-be-a-bad-investment)
 - [4. The (Very Thin) Bull Case](#4-the-very-thin-bull-case)
 - [5. Capital-Raising Plan](#5-capital-raising-plan)
-- [6. Final Verdict](#6-final-verdict)
+- [6. The "Green Bay Packers" Model — Community Ownership](#6-the-green-bay-packers-model--community-ownership)
+- [7. Final Verdict](#7-final-verdict)
 - [Sources](#sources)
 
 ---
@@ -185,7 +186,76 @@ As a private owner, you *can* profit — unlike the city. Target **5–10% net m
 
 ---
 
-## 6. Final Verdict
+## 6. The "Green Bay Packers" Model — Community Ownership
+
+> *"Go Green Bay Packers and allow people who are passionate about hockey to buy shares in the rink. Maybe get some big sponsorships from some solar companies or refrigeration company or something like that. Tough sells, but possible."*
+> — Brad (CPA, 20-year beer league teammate)
+
+Brad's idea is the most creative angle in this entire analysis. Instead of a traditional acquisition, structure this as a **community-owned entity** modeled after the Green Bay Packers — the only major professional sports franchise with public, community-based ownership.
+
+### How It Would Work
+
+**Legal Structure:** Form a **Michigan cooperative** or **community-owned LLC** with non-transferable membership units (shares). Shares would be priced affordably ($500–$5,000 each) to allow broad community participation.
+
+**Key Structural Elements:**
+- Shares are **non-transferable** and pay **no dividends** — this is a community asset, not a get-rich-quick scheme
+- Shareholders get **voting rights** on major decisions (e.g., facility closure, sale, major CapEx)
+- A **board of directors** elected by shareholders runs governance
+- **Professional management** still handles day-to-day operations
+- **Articles of incorporation** would include a clause that the facility must remain an ice arena — which is exactly what the city council wants anyway
+
+### Capital Stack Under This Model
+
+| Source | Amount | Notes |
+|--------|--------|-------|
+| **Community share offering** | $1–2M | 400–2,000 shareholders at $500–$5,000 each. Hockey families, alumni, local businesses. |
+| **SBA 504 Loan** | $2–2.5M | Community ownership model strengthens the SBA application (community benefit). |
+| **Corporate sponsorships** | $300–500K | Naming rights + multi-year deals (see below). |
+| **Managing member equity** | $200–400K | You + co-founders as managing members with operational authority. |
+| **CapEx reserve** | $500K–1M | Funded from operations + sponsor commitments. |
+
+### Corporate Sponsorship Strategy
+
+Brad's instinct here is sharp — **align sponsors with the arena's biggest cost centers:**
+
+| Sponsor Type | Value Proposition | Est. Annual Value |
+|-------------|-------------------|-------------------|
+| **Solar company** (e.g., local installer) | Rooftop solar on 75,000 sqft of flat roof. Sponsor funds install, gets naming rights + marketing. Reduces $150K+ annual electric bill by 20–40%. | $30–60K (energy savings) + $25–50K (naming deal) |
+| **Refrigeration company** | Service contract + branding on the boards/Zamboni bay. They get a showcase facility; you get discounted maintenance on the most expensive system in the building. | $25–50K |
+| **Local hospital/health system** (Beaumont, Ascension) | Sports medicine partnership. On-site athletic training, injury clinic referrals, branding on both rinks. | $50–100K |
+| **Auto dealers** (Suburban Collection, etc.) | Novi/metro Detroit is auto country. Dasher board advertising, tournament sponsorship, Zamboni wrap. | $25–75K |
+| **Youth sports brands** (Bauer, CCM) | Pro shop partnership, equipment demos, learn-to-skate gear packages. | $15–30K |
+
+**Conservative annual sponsorship target: $150–300K/year** — which could be the difference between break-even and a sustainable 5–10% margin.
+
+### Why This Model Addresses the Core Risks
+
+| Risk | How Community Ownership Mitigates It |
+|------|--------------------------------------|
+| **City council preference for Suburban** | Community ownership is a *better story* than selling to a corporation. Council members explicitly want the arena to serve residents — 400 shareholder-residents is a powerful counterargument. |
+| **Youth Hockey Association fears** | NYHA members become *shareholders and board members*. They're not getting pushed out — they're owners. |
+| **Deed restriction concern** | You'd *voluntarily* include the ice-arena-forever clause. It's a feature, not a bug. |
+| **Emotional attachment risk** | Distributed ownership means no single person is betting their financial future. Your $200–400K exposure is real but survivable. |
+| **PE consolidation threat** | Community-owned facilities are nearly impossible for Black Bear or similar to acquire. Shareholders would have to vote to sell. |
+
+### Precedent and Feasibility
+
+- The **Green Bay Packers** have held 6 stock sales since 1923, raising over $100M from 500,000+ shareholders
+- **Community-owned sports facilities** exist across Canada and Northern Europe (hockey cooperatives are common in Scandinavia)
+- Michigan has strong **cooperative law** (MCL 450.3101 et seq.) that supports this structure
+- **Regulation CF / Regulation A+** crowdfunding rules allow community investment offerings up to $5M–$75M with SEC compliance
+- Brad's instinct that it's a "tough sell, but possible" is honest — **the hard part isn't legal, it's marketing and momentum**
+
+### What Would Make This Fail
+
+- Insufficient community interest (need 400+ committed shareholders minimum)
+- SEC/state securities compliance costs ($50–100K in legal fees to structure properly)
+- Management disagreements among too many stakeholders (governance structure must be iron-clad)
+- Still doesn't solve the CapEx time bomb — shareholders would need to accept periodic capital calls or assessments
+
+---
+
+## 7. Final Verdict
 
 **This is a high-risk, low-margin, operationally intensive business with massive hidden CapEx exposure, and you'd be trying to outmaneuver a 50-year-old industry incumbent that the city explicitly prefers to sell to.**
 
@@ -193,6 +263,7 @@ Emotional connection to the rink is real and valid — but it's also the #1 fact
 
 ### Alternative Paths Worth Considering
 
+- **Community ownership (Brad's model)** — the strongest alternative to a traditional acquisition. See Section 6.
 - Join a community advisory board for the arena
 - Help organize/lead the Novi Youth Hockey Association
 - Negotiate an operational role under whoever buys it
